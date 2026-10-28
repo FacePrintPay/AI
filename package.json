@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "name": "AI",
   "version": "1.0.0",
@@ -9,4 +10,8 @@
   "author": "Cygel White / FacePrintPay",
   "license": "MIT"
 }
+=======
+{"name":"AI","version":"1.0.0","scripts":{"start":"bash run.sh","test":"echo ok"},"author":"Cygel White / FacePrintPay","license":"MIT"}
+
+>>>>>>> Stashed changes
 # FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=package.json
